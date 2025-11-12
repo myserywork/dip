@@ -1,0 +1,41 @@
+[
+    {
+        "name": "João da Silva",
+        "document": "05434961129",
+        "document_type": "CPF",
+        "role": "Autor",
+        "source": "Teste",
+        "additional_info": "",
+        "dados_enriquecidos": {
+            "sucesso": true,
+            "encontrado": true,
+            "dados": {
+                "id": "185960276",
+                "cpf": "05434961129",
+                "nome": "PEDRO HENRIQUE PONTES DE NORONHA",
+                "sexo": "M",
+                "nascimento": "1996-04-02 00:00:00",
+                "nome_mae": "ALESSANDRA PONTES DE SAMPAIO",
+                "nome_pai": "",
+                "rg": "",
+                "orgao_emissor": ""
+            }
+        }
+    },
+    {
+        "name": "EMPRESA XYZ LTDA",
+        "document": "05520899000197",
+        "document_type": "CNPJ",
+        "role": "Vendedor",
+        "source": "Teste",
+        "additional_info": ""
+    },
+    {
+        "name": "OUTRA EMPRESA ABC",
+        "document": "12345678000190",
+        "document_type": "CNPJ",
+        "role": "Comprador",
+        "source": "Teste",
+        "additional_info": ""
+    }
+]

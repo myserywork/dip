@@ -1,0 +1,32 @@
+# Arquivos de configuração sensíveis
+config.php
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads e arquivos temporários
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+
+# Cache
+cache/
+temp/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências
+node_modules/
+vendor/
